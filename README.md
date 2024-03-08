@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 - 🔭 I’m Student at KARE.
 - 🌱 I’m currently learning on Machine Learning.
-- 📫 How to reach me: https://sumanthyadav.netlify.app
+- 📫 Reach me at: https://sumanthyadav.tech
 - I'm an AI Entusiast.
 
 
